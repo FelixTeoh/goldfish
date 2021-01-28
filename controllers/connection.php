@@ -9,7 +9,7 @@
 //ONLINE DATABASE
 $host = "db4free.net";
 $username = "b2goldfish";
-$password = "123123123123";
+$password = "123123123";
 $name = "fishapp_ecommerce";
 
 $cn = new mysqli($host, $username, $password, $name);
