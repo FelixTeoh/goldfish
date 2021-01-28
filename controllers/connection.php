@@ -10,6 +10,6 @@
 $host = "db4free.net";
 $username = "b2goldfish";
 $password = "123123123";
-$name = "fishapp_ecommerce";
+$name = "goldfish";
 
 $cn = new mysqli($host, $username, $password, $name);
